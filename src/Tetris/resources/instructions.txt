@@ -1,0 +1,20 @@
+INSTRUCTIONS:
+
+Clear lines, just win. Three second delay before game is started/unpaused.
+
+For legal reasons this is not actually Tetris. 
+
+
+CONTROLS:
+
+Play/Pause - Esc
+Reset Game - R
+
+Move Right - Right arrow
+Move Left - Left arrow
+Soft Drop - Down arrow
+Hard Drop - Space bar
+Rotate Right - Up arrow / C
+Rotate Left - X
+Place Piece in HOLD - Left Shift / Right Shift
+Take Piece out of HOLD - Left Shift / Right Shift
