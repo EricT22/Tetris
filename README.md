@@ -1,6 +1,6 @@
 ## Tetris in Java
 
-Hope that whoever plays this enjoys! :joy:
+Hope that whoever plays this enjoys! :blush:
 
 This project was made during the summer and fall of 2023. 
 
